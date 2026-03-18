@@ -14,10 +14,10 @@ This project implements a simple moving average (SMA) crossover backtesting stra
 
 ## Files
 
--   `backtest.py`: The main Python script to run the crossover backtest.
--   `backtest_explanation.md`: Detailed breakdown of the project logic and results explanation.
--   `15_June_months.csv`: 15-minute interval Gold price data.
--   `30_June_months.csv`: 30-minute interval Gold price data.
+-   [`backtest.py`](backtest.py): The main Python script to run the crossover backtest.
+-   [`backtest_explanation.md`](backtest_explanation.md): Detailed breakdown of the project logic and results explanation.
+-   [`15_June_months.csv`](15_June_months.csv): 15-minute interval Gold price data.
+-   [`30_June_months.csv`](30_June_months.csv): 30-minute interval Gold price data.
 
 ## Setup
 
